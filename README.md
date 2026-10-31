@@ -41,7 +41,3 @@ The objective is to identify attrition patterns and provide meaningful insights 
 ## Project Outcome
 This project demonstrates the use of Power BI to explore HR data, identify employee attrition patterns, and communicate workforce insights through interactive dashboards.
 
-## Author
-**Seida**
-
-Data Analytics | SQL | Python | Power BI
